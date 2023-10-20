@@ -1,4 +1,7 @@
-Start by populating all SMD parts on the board
+Start by populating all SMD parts on the board:
+R1-4 - 470ohm Resistor
+C1-4 220uF Capacitor
+C5 10uf Capacitor
 
 Then solder in the VGA port and Audio jack
 
@@ -15,14 +18,14 @@ Solder the short pins in first as shown. Pins 2, 3, and 4.
 Now solder in the full size pins as shown. Pins 6, 7, and 8.
 
 This next part requires the use of a tool like a dremel or a lot of patience with clippers and a file. 
-Remove part of the outer shield on both sides like this. The pins MUST NOT TOUCH the shield or you risk damage to any devices this is connected to. 
+Remove part of the outer shield on both sides like this. The pins must not touch the shield or you risk damage to any devices this is connected to. 
 
-Check your pins. Make sure they are as perfectly vertical as possible. Depending on how quickly you soldered the pins in, there will be some amount of play
-in the plastic. With tweezers or the like, turn the pins until satisfactory. If the pins do not move easily, apply heat with a soldering iron and move them quickly
+Check your pins. Make sure they are as vertical as possible. Depending on how quickly you soldered the pins in, there will be some amount of play
+in the plastic. With tweezers, turn the pins until satisfactory. If the pins do not move easily, apply heat with a soldering iron and move them quickly
 before the part cools. 
 
-Next inspect the side profile. We are aiming for a perfect 90 degree angle but again, the board should allow some play. 
+Next inspect the side profile. Aim for a perfect 90 degree angle but again, the board should allow some play. 
 
 Once the connector is done, solder it in. Pay attention to the arrows on the PCB marking the direction the connector should go.
 Start by inserting the pins. Then Solder in the shield making sure the connector is straight.
-Once aligned and soldered, solder the pins. 
+Once aligned, hit the pins with plenty of solder.
