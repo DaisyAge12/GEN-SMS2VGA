@@ -1,31 +1,22 @@
 Start by populating all SMD parts on the board:
-R1-4 - 470ohm Resistor
-C1-4 220uF Capacitor
-C5 10uf Capacitor
+R1    470 ohm Resistor
+R2-4  75  ohm Resistor 
+C1-4  220 uF  Capacitor
+C5    10  uf  Capacitor
 
 Then solder in the VGA port and Audio jack
 
-Clip the plastic spacers off of 6 pins from the header connection
+Insert the DIN 8 connector into the DIN 8 pcb. Make sure the connector is flush to the pcb.
 
-These 6 pins will be used to make a right angled DIN 8 connector
+Solder in the connector.
 
-Clip three pins on the shortest side to about 2.5mm long. 
+Insert angled header pins as shown.
 
-Try to be accurate here but at the very least make the pins the same length, the PCB should provide enough wiggle room if you are +-1mm off. 
+Solder one pin then adjust until all pins are inserted to the same depth.
 
-Solder the short pins in first as shown. Pins 2, 3, and 4. 
+Solder the rest of the pins in. 
 
-Now solder in the full size pins as shown. Pins 6, 7, and 8.
+Insert the assembled DIN 8 pcb into the main pcb, making sure the connector is facing the correct way.
+Pay attention to the arrows on the PCB marking the direction the connector should go.
 
-This next part requires the use of a tool like a dremel or a lot of patience with clippers and a file. 
-Remove part of the outer shield on both sides like this. The pins must not touch the shield or you risk damage to any devices this is connected to. 
-
-Check your pins. Make sure they are as vertical as possible. Depending on how quickly you soldered the pins in, there will be some amount of play
-in the plastic. With tweezers, turn the pins until satisfactory. If the pins do not move easily, apply heat with a soldering iron and move them quickly
-before the part cools. 
-
-Next inspect the side profile. Aim for a perfect 90 degree angle but again, the board should allow some play. 
-
-Once the connector is done, solder it in. Pay attention to the arrows on the PCB marking the direction the connector should go.
-Start by inserting the pins. Then Solder in the shield making sure the connector is straight.
-Once aligned, hit the pins with plenty of solder.
+Solder in the pins.
