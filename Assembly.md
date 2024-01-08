@@ -5,7 +5,7 @@ Start by populating all SMD parts on the board:
 + R1    470 ohm Resistor
 + R2-4  75  ohm Resistor 
 + C1-4  220 uF  Capacitor
-+ C5    10  uf  Capacitor
+
 Ignore the bodge wire, this was a prototype board
 
 <img src="Board%20Images/SMD.jpg" width="256" >
@@ -37,4 +37,4 @@ Adjust as neccessary and then finish soldering the pins.
 
 Make sure to trim the underside of the main board and don't leave too much of the pins exposed. 
 
-Insert the finished board into the enclosure. Use 2 M2 16mm screws and 2 nuts to secure the housing. s
+Insert the finished board into the enclosure. Use 2 M2 20mm screws and 2 nuts to secure the housing.

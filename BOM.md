@@ -11,10 +11,6 @@ Ceramic Capacitor 220UF 6.3V X5R 1206 Imperial
 Digikey Part # 490-13970-1-ND
 Quantity: 4
 
-Ceramic Capacitor 10UF 6.3V X5R 0805 Imperial
-Digikey Part # 399-C0805C106K9PAC7800CT-ND
-Quantity: 1
-
 Resistor 470 OHM 5% 1/4W 0805 Imperial
 Digikey Part # 2019-RK73B2ATTD471JCT-ND
 Quantity: 1
