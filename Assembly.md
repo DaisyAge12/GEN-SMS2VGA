@@ -8,7 +8,7 @@ C1-4  220 uF  Capacitor
 C5    10  uf  Capacitor
 Ignore the bodge wire, this was a prototype board
 
-<img src="Board%20Images/SMD.jpg" width="256"
+<img src="Board%20Images/SMD.jpg" width="256" >
 
 Then solder in the VGA port and Audio jack
 
@@ -33,6 +33,6 @@ can easily wear down if left with too much room.
 Make sure the riser is flush with the main board and at a 90 degree angle. Solder in one pin. 
 Adjust as neccessary and then finish soldering the pins. 
 
-<img src="/blob/main/Board%20Images/Angled%20View.jpg" width="256"
+<img src="Board%20Images/Angled%20View.jpg" width="256" >
 
 Make sure to trim the underside of the main board and don't leave too much of the pins exposed. 
