@@ -2,10 +2,10 @@ Some prep may be necessary! Remove all panel burrs and test fit the main board i
 not impossible to remove. 
 
 Start by populating all SMD parts on the board:
-R1    470 ohm Resistor
-R2-4  75  ohm Resistor 
-C1-4  220 uF  Capacitor
-C5    10  uf  Capacitor
++ R1    470 ohm Resistor
++ R2-4  75  ohm Resistor 
++ C1-4  220 uF  Capacitor
++ C5    10  uf  Capacitor
 Ignore the bodge wire, this was a prototype board
 
 <img src="Board%20Images/SMD.jpg" width="256" >
@@ -36,3 +36,5 @@ Adjust as neccessary and then finish soldering the pins.
 <img src="Board%20Images/Angled%20View.jpg" width="256" >
 
 Make sure to trim the underside of the main board and don't leave too much of the pins exposed. 
+
+Insert the finished board into the enclosure. Use 2 M2 16mm screws and 2 nuts to secure the housing. s
