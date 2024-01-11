@@ -21,7 +21,7 @@ Solder in the connector.
 
 Insert angled header pins into the DIN 8 riser board. the pins should point in the same direction as the DIN 8 connector.
 The middle pins will need to be trimmed down as close to flush with the board as possible. This is to keep the 
-pins from getting in the way of the console. You may trim them all down like I did. 
+pins from getting in the way of the console. You may trim them all the pins down like I did. 
 Solder the pins in on both sides. 
 
 <img src="Board%20Images/Pin%20Direction.jpg" width="256" > 
